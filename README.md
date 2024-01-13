@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditi22bansal&label=Profile%20views&color=0e75b6&style=flat" alt="aditi22bansal" /> </p>
 
-- 🌱 I’m currently learning **Java, C++**
+- 🌱 I’m currently learning **Python, Java, C++, C, SQL, Rust**
 
 - 📫 How to reach me **aditibansal1408@gmail.com**
 
-- ⚡ Fun fact **I think I am a learner**
+- ⚡ Fun fact **I think I am a curious learner**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
