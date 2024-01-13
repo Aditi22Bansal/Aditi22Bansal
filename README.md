@@ -1,3 +1,4 @@
+[![An image of @aditi22bansal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aditi22bansal)](https://holopin.io/@aditi22bansal)
 <h1 align="center">Hi 👋, I'm ADITI BANSAL</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
