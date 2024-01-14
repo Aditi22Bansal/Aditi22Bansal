@@ -1,5 +1,9 @@
 [![An image of @aditi22bansal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aditi22bansal)](https://holopin.io/@aditi22bansal)
 <h1 align="center">Hi 👋, I'm ADITI BANSAL</h1>
+<p align="center">
+<img
+align = "center" src="[https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWwwZ3k3NHR5M3JrOHE3eG9vdzNydGJvbHh0b2d4ZjUyb3pvazNhMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5K7ngCtszoxxbaBieC/giphy.gif](https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW)" width="250" height="250"/>
+</p>
 <h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditi22bansal&label=Profile%20views&color=0e75b6&style=flat" alt="aditi22bansal" /> </p>
