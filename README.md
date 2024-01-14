@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm ADITI BANSAL</h1>
 <p align="center">
 <img
-align = "center" src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e479fofjfjmqxc0rhmkxbfzn0643di7sxetfb0ipwx1&ep=v1_gifs_search&rid=giphy.gif&ct=gif" width="250" height="250"/>
+align = "center" src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e479fofjfjmqxc0rhmkxbfzn0643di7sxetfb0ipwx1&ep=v1_gifs_search&rid=giphy.gif&ct=gif" width="400" height="250"/>
 </p>
 <h3 align="center">A passionate full stack developer from India</h3>
 
