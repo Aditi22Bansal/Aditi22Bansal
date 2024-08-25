@@ -8,9 +8,8 @@
   <a href="https://github.com/aditi22bansal?tab=followers"><img src="https://img.shields.io/github/followers/aditi22bansal?label=Followers&style=social" alt="GitHub followers" /></a>
   <a href="https://holopin.io/@aditi22bansal"><img src="https://img.shields.io/badge/Holopin-Badges-orange" alt="Holopin Badges" /></a>
 </p>
----
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditi22bansal" alt="aditi22bansal" /></a> </p>
----
 
 - 🌱 I’m currently learning **Java, C++, C, Rust, SQL, Python**
 - 📫 Reach me at **aditibansal1408@gmail.com**
