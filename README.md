@@ -81,19 +81,47 @@ Developed a laptop price comparison platform using web scraping to aggregate rea
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-**Languages:** C • C++ • Java • Python • JavaScript • TypeScript
+### 💻 Languages
 
-**Frontend:** React • Next.js • HTML • CSS • Tailwind CSS
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts" />
+</p>
 
-**Backend:** Node.js • Express.js • FastAPI
+### 🎨 Frontend
 
-**Databases:** MongoDB • PostgreSQL • MySQL
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+</p>
 
-**Tools:** Git • GitHub • Docker • AWS • Linux • Postman • VS Code
+### ⚙️ Backend
 
-**AI/ML:** Gemini AI • OpenAI API • TensorFlow • Scikit-learn • Pandas
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+</p>
+
+### 🗄️ Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+</p>
+
+### ☁️ Cloud & DevOps
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,postman,vscode" />
+</p>
+
+### 🤖 AI / ML & Data Science
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />
+</p>
+
+<p align="left">
+<strong>Additional Technologies:</strong> Google Gemini AI • OpenAI API • Pandas • Power BI • Power Query • DAX
+</p>
 
 ---
 
