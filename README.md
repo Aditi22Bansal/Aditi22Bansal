@@ -99,7 +99,7 @@ Developed a laptop price comparison platform using web scraping to aggregate rea
 
 ## 📄 Resume
 
-**[Download Resume](./assets/resume.pdf)**
+**[Download Resume](./Resume_Github.pdf)**
 
 ---
 
