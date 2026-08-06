@@ -1,77 +1,118 @@
+
+<div align="center">
+
+# Hi 👋, I'm Aditi Bansal
+
+### Full-Stack Software Developer • AI Applications • Backend Engineering
+
+Building scalable software, AI-powered applications, and developer tools.
+
+[![Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./assets/resume.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditi-bansal22/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/aditibansal2203)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditibansal1408@gmail.com)
+
 [![Holopin Badges](https://holopin.me/aditi22bansal)](https://holopin.io/@aditi22bansal)
 
-<h1 align="center">Hi there, I'm Aditi Bansal! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aditi22bansal&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
-  <a href="https://github.com/aditi22bansal?tab=followers"><img src="https://img.shields.io/github/followers/aditi22bansal?label=Followers&style=social" alt="GitHub followers" /></a>
-  <a href="https://holopin.io/@aditi22bansal"><img src="https://img.shields.io/badge/Holopin-Badges-orange" alt="Holopin Badges" /></a>
-</p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditi22bansal" alt="aditi22bansal" /></a> </p>
-
-- 🌱 I’m currently learning **Java, C++, C, Rust, SQL, Python**
-- 📫 Reach me at **aditibansal1408@gmail.com**
-- ⚡ Fun fact: **I'm a curious learner who loves exploring new tech!**
+</div>
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/aditi-bansal-115839285/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.hackerrank.com/aditibansal2203" target="blank"><img align="center" src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
-</p>
+## 👩‍💻 About Me
+
+I'm a Computer Science undergraduate at **Symbiosis Institute of Technology** passionate about **backend engineering, AI applications, distributed systems, and scalable software**. I enjoy building products that solve real-world problems through clean architecture and intuitive user experiences.
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" />
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40" />
-  </a>
-  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="40" height="40" />
-  </a>
-</p>
+## 💼 Experience
+
+### Full Stack Developer Intern — Project: Human City
+
+- Built production-ready web applications using React.js and Node.js.
+- Developed scalable backend APIs and real-time communication features.
+- Worked in Agile teams with code reviews and production deployments.
 
 ---
 
-<h3 align="left">GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aditi22bansal&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditi22bansal&theme=radical" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aditi22bansal&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+## 🏆 Achievements
+
+- 🏆 Grand Finalist — Myntra WeForShe Hackerramp 2026
+- ⭐ Top 50 Contributor — GirlScript Summer of Code
+- 🥈 Flipkart GRID 8.0 Semi-Finalist
+- 📜 Indian Patent Holder
+- 📄 Published Author — ICCUBEA 2024
+- 👩‍💻 Technical Head — Cyber Blockchain Club
 
 ---
 
+## 🚀 Featured Projects
 
+| Project | Description | Tech Stack |
+|----------|-------------|------------|
+| **🤖 FormCraft** | AI-powered form automation platform that generates intelligent forms using **Google Gemini** and provides advanced response analytics through **sentiment analysis, interaction heatmaps, anomaly detection, adaptive follow-up questions, session tracking, and form health scoring**, helping organizations optimize user engagement and improve form performance. | `React.js` • `Node.js` • `Express.js` • `MongoDB` • `Gemini AI` |
+| **🔍 RepoLens** | AI-powered GitHub repository analyzer that evaluates **repository quality, architecture, maintainability, technology stack, security risks, large code hotspots, commit activity**, and generates **contribution readiness scores** to help developers assess projects before contributing or adopting them. | `React.js` • `Node.js` • `Express.js` • `GitHub API` |
+| **🛠 Unified IT Support** | Enterprise IT operations platform that streamlines support through **AI-assisted ticket management, secure JWT authentication, role-based access control, SLA tracking, real-time system monitoring, and WebSocket notifications**, improving operational efficiency and incident resolution. | `React.js` • `Node.js` • `Express.js` • `MongoDB` • `Socket.io` |
+| **🌿 Serenity** | AI-powered mental wellness platform providing **personalized wellness recommendations, mood assessment, guided breathing exercises, counselling session booking, secure video consultations, payment integration, wellness streak tracking, and responsive dashboards** for holistic self-care. | `React.js` • `Node.js` • `Express.js` • `MongoDB` • `WebRTC` |
+| **🏠 RoomSync** | Intelligent roommate allocation platform that automates hostel room assignments using **preference-based matching** across sleep schedules, cleanliness, study habits, and lifestyle choices, improving compatibility while significantly reducing manual allocation effort. | `React.js` • `Node.js` • `Express.js` • `MongoDB` |
+| **✨ Aiva.ai** | Multi-tool AI productivity platform enabling users to generate **articles, resumes, summaries, and analytical content** through modular AI-powered tools, with emphasis on scalability, usability, and seamless user experience across multiple productivity workflows. | `React.js` • `Node.js` • `Express.js` • `MongoDB` • `Gemini AI` |
+| **📊 Finance Analytics Dashboard** | Interactive **Power BI** dashboard for transaction intelligence featuring **Power Query-based data transformation, DAX-driven KPIs, fraud detection metrics, revenue analysis, customer insights, merchant performance tracking, and dynamic drill-down visualizations** for business decision-making. | `Power BI` • `Power Query` • `DAX` |
+| **🌍 VeridaX** | Multi-role platform integrating **crowdfunding, volunteering, and an online marketplace (Verida Bazaar)** with role-based authentication, campaign management, volunteer participation workflows, product listings, and unified dashboards for social impact initiatives. | `React.js` • `Node.js` • `Express.js` • `MongoDB` |
+| **🎓 Shiksha Sankalp** | Educational collaboration platform inspired by **Discord and Slack**, enabling secure authentication, classroom creation, channel-based communication, REST API integration, and **real-time messaging using Socket.io** to enhance collaboration between students and educators. | `React.js` • `Node.js` • `Express.js` • `MongoDB` • `Socket.io` |
+| **🤝 SkillConnect** | Student collaboration and skill exchange platform connecting users based on **skills, interests, and learning goals**, enabling profile management, project collaboration, mentorship discovery, skill listings, and **real-time communication** through a responsive full-stack application. | `React.js` • `Node.js` • `Express.js` • `MongoDB` |
+
+
+---
+
+## 📚 Research & Publications
+
+### 📜 Indian Patent
+**Autonomous Landmine Detection Robot Using GPR, Metal Detection, IoT and Remote Operation**
+
+*Indian Patent Office (Government of India) • October 2025*
+
+Designed an autonomous robotic system integrating Ground Penetrating Radar (GPR), metal detection, IoT and remote operation to improve landmine detection accuracy while reducing human involvement.
+
+### 📄 Conference Publication
+**Laptop Bargains Unleashed: Exploring the Influence of Price Comparison Websites**
+
+*8th International Conference on Computing, Communication, Control and Automation (ICCUBEA 2024) • August 2024*
+
+Developed a laptop price comparison platform using web scraping to aggregate real-time prices across retailers and simplify purchasing decisions.
+
+---
+
+## 🛠 Tech Stack
+
+**Languages:** C • C++ • Java • Python • JavaScript • TypeScript
+
+**Frontend:** React • Next.js • HTML • CSS • Tailwind CSS
+
+**Backend:** Node.js • Express.js • FastAPI
+
+**Databases:** MongoDB • PostgreSQL • MySQL
+
+**Tools:** Git • GitHub • Docker • AWS • Linux • Postman • VS Code
+
+**AI/ML:** Gemini AI • OpenAI API • TensorFlow • Scikit-learn • Pandas
+
+---
+
+## 📄 Resume
+
+**[Download Resume](./assets/resume.pdf)**
+
+---
+
+## 📫 Connect
+
+- 📧 **Email:** aditibansal221017@gmail.com
+- 💼 **LinkedIn:** https://www.linkedin.com/in/aditi-bansal22
+- 💻 **GitHub:** https://github.com/Aditi22Bansal
+
+---
+
+<div align="center">
+
+⭐ Thanks for visiting! Feel free to explore my repositories and connect for collaboration.
+
+</div>
