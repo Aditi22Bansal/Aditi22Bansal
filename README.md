@@ -23,7 +23,7 @@ Building scalable software, AI-powered applications, and developer tools.
 
 <br/>
 
-<a href="./assets/resume.pdf">
+<a href="./Resume_Github.pdf">
 <img src="https://img.shields.io/badge/Resume-PDF-E74C3C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
